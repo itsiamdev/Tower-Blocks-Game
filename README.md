@@ -17,7 +17,7 @@ A thrilling 3D stacking game where precision and timing are key! Build the talle
 5. If you miss, the game ends, and you can restart.
 
 ## Play Online 🌐
-Experience the game live at: [https://iam269.github.io/Tower-Blocks-Game/](https://iam269.github.io/Tower-Blocks-Game/)
+Experience the game live at: [https://itsiamdev.github.io/Tower-Blocks-Game/](https://itsiamdev.github.io/Tower-Blocks-Game/)
 
 ## Local Development 🛠️
 To run locally:
